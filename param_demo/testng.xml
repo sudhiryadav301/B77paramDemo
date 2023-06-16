@@ -1,0 +1,10 @@
+<suite name="Suite">
+<test thread-count="5" name="Test">
+<parameter name="city" value="${city}"/>
+<classes>
+<class name="day20.Demo1"/>
+</classes>
+</test>
+<!--  Test  -->
+</suite>
+<!--  Suite  -->
