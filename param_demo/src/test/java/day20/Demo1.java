@@ -8,8 +8,8 @@ public class Demo1 {
 	@Parameters({"city"})
 	@Test
 	public void testA(String city)
-	{ System.out.println(city);
-		Reporter.log("testA..",true);
+	{ //System.out.println(city);
+		Reporter.log("testA.."+city,true);
 	}
 
 }
