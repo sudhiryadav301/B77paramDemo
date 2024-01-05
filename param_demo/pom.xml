@@ -21,7 +21,7 @@
 				<version>3.0.0</version>
 				<configuration>
 				<systemPropertyVariables>
-            <city>Bangalore</city>
+            <city>America</city>
           </systemPropertyVariables>
 				
 					<suiteXmlFiles>
